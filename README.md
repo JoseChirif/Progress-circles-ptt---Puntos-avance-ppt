@@ -15,6 +15,8 @@ Si ya habían circulos de avance previamente, los eliminirá antes de dibujar lo
 - EliminarPuntosUltimaDiapositiva: Elimina todos los puntos de avance de la última diapositiva.
 
 
+### Recomendación personal
+Personalmente, no recomiendo utilizar estos puntos para una exposición o clase (puede distraer la audiencia y tenemos la vista del moderador que nos da estos datos). Sin embargo, puede ser óptimo para presentaciones que no se expondran, dando al cliente final la noción de avance correcta.
 
 # Autor
 - [@Jose Chirif](https://github.com/JoseChirif)
