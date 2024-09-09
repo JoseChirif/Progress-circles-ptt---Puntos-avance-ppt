@@ -52,7 +52,7 @@ Sub DibujarPuntos()
     For Each sld In ActivePresentation.Slides
         currentSlide = sld.SlideIndex
         
-        ' Dibujar puntos celestes para las diapositivas pasadas y la actual
+        ' Dibujar puntos para las diapositivas pasadas y la actual
         For i = 1 To currentSlide
             With sld.Shapes.AddShape(msoShapeOval, xPos, yPos, radius * 2, radius * 2)
                 .Fill.ForeColor.RGB = colorAvanzado
@@ -63,7 +63,7 @@ Sub DibujarPuntos()
             xPos = xPos + (radius * 2) + spacing ' Incremento en X para el siguiente punto
         Next i
 
-        ' Dibujar puntos grises para las diapositivas restantes
+        ' Dibujar puntos para las diapositivas restantes
         For i = currentSlide + 1 To totalSlides
             With sld.Shapes.AddShape(msoShapeOval, xPos, yPos, radius * 2, radius * 2)
                 .Fill.ForeColor.RGB = colorPendiente
