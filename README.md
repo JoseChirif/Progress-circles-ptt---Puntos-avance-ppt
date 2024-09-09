@@ -1,9 +1,18 @@
 # Puntos avance ppt
 Macros VBA para añadir puntos de avance de diapositivas. Similar a una barra de progreso para presentaciones ppt.
 
+## Variables
 Las variables están declaradas en el primer macro (InicializarVariables).
+- colorAvanzado: Color del relleno de los circulos que simulan las diapositivas avanzadas.
+- bordeAvanzado: Color del borde de los circulos que simulan las diapositivas avanzadas.
+- colorPendiente: Color del relleno de los circulos que simulan las diapositivas faltantes.
+- bordePendiente: Color del borde de los circulos que simulan las diapositivas faltantes.
+- grosorBordeCirculos: Grosor del borde en mm para todos los círculos.
+- radius = Radio de todos los círculos.
+- spacing = Espacio entre los círculos.
+- puntoAltura = Altura a la que se presentan los círculos.
 
-## Macros:
+## Macros
 - InicializarVariables: Declara las variables (tamaño circulos, borde, altura, espaciado y colores).
 - DibujarPuntos: Dibuja circulos con  colorAvanzado y bordeAvanzado según la diapositiva en la estes (ej. diapositiva 2, dibujará 2 circulos con estas carácteristicas). Y seguido dibuja tantos circulos con colorPendiente y bordePendiente como diapositivas faltan. 
 Si ya habían circulos de avance previamente, los eliminirá antes de dibujar los nuevos.
@@ -22,5 +31,6 @@ Personalmente, no recomiendo utilizar estos puntos para una exposición o clase 
 - [@Jose Chirif](https://github.com/JoseChirif)
 
 ## 🚀 Acerca de mi
-[Ingeniero Industrial especializado en optimización de procesos, business intelligence y ciencia de datos.](https://linktr.ee/josechirif)
+Ingeniero Industrial especializado en optimización de procesos, business intelligence y ciencia de datos.
+[Redes / Contacto](https://linktr.ee/josechirif)
 
