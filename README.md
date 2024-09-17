@@ -10,6 +10,9 @@ The parameters of the points (as circles) are variables in the first macro (Inic
 
 [For more details go to the wiki of this repository](https://github.com/JoseChirif/Progress-circles-ptt---Puntos-avance-ppt/wiki)
 
+### Alternative progress bar
+If you prefer use progress bars, [click to enter to my other repository](https://github.com/JoseChirif/Progress-bar-power-point)
+
 
 # Author
 - [@Jose Chirif](https://github.com/JoseChirif)
@@ -31,6 +34,9 @@ Para dibujar los puntos de avance ejecuta el macro **DibujarPuntos**.
 Los parámetros de los puntos (en forma de circulos) están en la primera macro (InicializarVariables).
 
 [Para más detalle, reviza el manual en el wiki de este repositorio](https://github.com/JoseChirif/Progress-circles-ptt---Puntos-avance-ppt/wiki)
+
+### Alternativa barras de progreso
+Si prefieres utilizar barras de progreso, [click para ir a mi otro repositorio](https://github.com/JoseChirif/Barras-de-progreso-power-point)
 
 
 # Autor
