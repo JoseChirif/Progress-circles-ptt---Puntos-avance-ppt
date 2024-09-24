@@ -1,8 +1,13 @@
-# English
 # Progress points ppt
 The project add progress circles in your ppt presentation:
 Ex, View of the **Slide 2 of 5:**
 ![image](https://github.com/user-attachments/assets/bd02d6ab-a611-4327-9e05-029d07ea3dbb)
+
+## Languages
+- [Click aquí para Español](https://github.com/JoseChirif/Progress-circles-ptt---Puntos-avance-ppt?tab=readme-ov-file)
+
+<br>
+
 
 ## Execute
 To draw the progress points on all slides, run the macro **DrawCircles**.
