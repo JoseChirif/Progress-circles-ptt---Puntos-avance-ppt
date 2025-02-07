@@ -20,7 +20,7 @@ Si prefieres utilizar barras de progreso, [click para ir a mi otro repositorio](
 
 <br>
 
-# Autor
+# ✍️ Autor
 - [@Jose Chirif](https://github.com/JoseChirif)
 
 ## 🚀 Acerca de mi
