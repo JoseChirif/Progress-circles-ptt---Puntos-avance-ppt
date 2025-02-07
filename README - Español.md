@@ -35,12 +35,11 @@ Ingeniero Industrial especializado en optimización de procesos, business intell
 💖 ¡Tu apoyo significa muchísimo para mí! ¡Gracias por tu generosidad y por ayudar a que este proyecto siga creciendo! 🚀
 
 <p align="center">
-    <a href="buymeacoffee.com/Jchirif">
+    <a href="https://buymeacoffee.com/Jchirif" target="_blank">
         <img alt="Buy Me a Tea" src="https://img.shields.io/badge/Buy%20Me%20a%20Tea-☕-586DE0?style=for-the-badge&labelColor=586DE0">
     </a>
     &nbsp;    &nbsp;  &nbsp;  
-    <a href="https://paypal.me/JChirif">
+    <a href="https://paypal.me/JChirif" target="_blank">
         <img alt="Paypal" src="https://img.shields.io/badge/Donate%20via%20PayPal-❤️-FF9900?style=for-the-badge&logo=paypal&labelColor=FF9900">
     </a>
 </p>
-

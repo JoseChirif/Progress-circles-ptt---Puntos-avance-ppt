@@ -32,11 +32,11 @@ I'm an Industrial Engineer specialized in process optimization, business intelli
 ### ❤️ Support me
 If you enjoy my work and want to support me, feel free to donate through the links below. Your support means a lot!
 <p align="center">
-    <a href="buymeacoffee.com/Jchirif">
+    <a href="https://buymeacoffee.com/Jchirif" target="_blank">
         <img alt="Buy Me a Tea" src="https://img.shields.io/badge/Buy%20Me%20a%20Tea-☕-586DE0?style=for-the-badge&labelColor=586DE0">
     </a>
     &nbsp;    &nbsp;  &nbsp;  
-    <a href="https://paypal.me/JChirif">
+    <a href="https://paypal.me/JChirif" target="_blank">
         <img alt="Paypal" src="https://img.shields.io/badge/Donate%20via%20PayPal-❤️-FF9900?style=for-the-badge&logo=paypal&labelColor=FF9900">
     </a>
 </p>
