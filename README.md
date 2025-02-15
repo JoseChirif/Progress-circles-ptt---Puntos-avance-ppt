@@ -8,8 +8,58 @@ Ex, View of the **Slide 2 of 5:**
 
 <br>
 
+## Video tutorial
+Check the instruction guide on **YouTube 🎬**:
+
+- [English](https://youtu.be/s6f_X-SdqNA?si=EHSeB9e-sgV6VDvs&t=30)
+- [Español](https://youtu.be/2g3WFdS9uVg?si=Ie2f81ZRNe748MoM&t=27)
+
+It covers the **Download**, **Activate developer tab**, **Import macros** and **execution**, which can be found below in this README.
+
+## Download
+<ol>
+<li>Download the last release.rar
+    <table>
+    <tr>
+    <td><img src="https://github.com/user-attachments/assets/7beb6303-cdca-432b-9ffd-0bb4ac70c0b3" loading="lazy"/></td>
+    <td><img src="https://github.com/user-attachments/assets/4944850f-5813-4b2b-8070-185721ad348d" loading="lazy"/></td>
+    </tr>
+    </table>
+</li>
+<li>Extract the .rar program
+</li>
+</ol>
+
+
+## Activate Developer tab
+<ol>
+<li>Go to the 'file' tab and in the left sidebar clic in 'options'
+<img src="https://github.com/user-attachments/assets/8a5ca37d-9672-4ca1-90ef-ea892a315328" loading="lazy"/>
+</li>
+<li>In the left sidebar clic in 'Customize Ribbon' and in the right sidebar filter 'All tabs'
+<img src="https://github.com/user-attachments/assets/7e99503f-6135-468f-9c15-4be0cb8ddf36" loading="lazy"/>
+</li>
+<li>The last step is in the right sidebar activate the check in 'Developer' and clic in  'Ok'
+<img src="https://github.com/user-attachments/assets/456b0ef3-02c4-4bbb-8b90-169db0bb7874" loading="lazy"/>
+</li>
+</ol>
+
+
+## Import macros
+<ol>
+<li>Go to the tab 'Developer' and 'Visual Basic'
+<img src="https://github.com/user-attachments/assets/b2d71ff5-94f7-4e89-af67-1af4abdda7bb" loading="lazy"/>
+</li>
+<li>In the Visual Basic window, right click in your presentation, 'import file'
+<img src="https://github.com/user-attachments/assets/186ca83a-bd21-4a94-a911-2d7f090e7843" loading="lazy"/>
+</li>
+<li>Select the file that you download from this repository and close the visual basic window
+</li>
+</ol>
+
 
 ## Execute
+To run macros, go to the developer tab and macros. <br>
 To draw the progress points on all slides, run the macro **DrawCircles**.
 The parameters of the points (as circles) are variables in the first macro (InicializeVariables).
 

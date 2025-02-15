@@ -8,8 +8,58 @@ Por ejemplo en la **diapositiva 2 de 5** se ve así:
 
 <br>
 
+## Video tutorial
+Revisa el video tutoria en **YouTube 🎬**:
+
+- [Español](https://youtu.be/2g3WFdS9uVg?si=Ie2f81ZRNe748MoM&t=27)
+- [English](https://youtu.be/s6f_X-SdqNA?si=EHSeB9e-sgV6VDvs&t=30)
+
+Cubre la **Descarga**, **Activación de pestaña 'programador'**, **Importación de macros** y **ejecución**; los cuales puedes encontrar justo abajo en este README.
+
+## Descarga
+<ol>
+<li>Descarga el último 'Lanzamiento.rar'
+    <table>
+    <tr>
+    <td><img src="https://github.com/user-attachments/assets/7beb6303-cdca-432b-9ffd-0bb4ac70c0b3" loading="lazy"/></td>
+    <td><img src="https://github.com/user-attachments/assets/4944850f-5813-4b2b-8070-185721ad348d" loading="lazy"/></td>
+    </tr>
+    </table>
+</li>
+<li>Extrae el archivo .rar
+</li>
+</ol>
+
+
+## Activar pestaña programador
+<ol>
+<li>Ir a la pestaña 'Archivo' y seleccionar 'Opciones'.
+<img src="https://github.com/user-attachments/assets/65755267-ecb5-4f02-b15d-1764e8180e0c" loading="lazy"/>
+</li>
+<li>En la barra lateral izquierda seleccionar 'Personalizar cinta de opciones' y en la barra derecha filtrar por 'Todas las pestañas'.
+<img src="https://github.com/user-attachments/assets/30c5b119-3f29-499e-8316-20d6a4f5b648" loading="lazy"/>
+</li>
+<li>Finalmente, en la barra derechar, activar el check en 'Programador' y clic en 'Ok'.
+<img src="https://github.com/user-attachments/assets/e8df7f24-0619-4a4b-a4e5-a139b5849314" loading="lazy"/>
+</li>
+</ol>
+
+
+## Importar macros
+<ol>
+<li>En la pestaña 'Programador' ir a 'Visual Basic'
+<img src="https://github.com/user-attachments/assets/d66f7948-3107-4584-aa0c-28c9a6107e7b" loading="lazy"/>
+</li>
+<li>En la ventana de Visual Basic, click derecho a la presentación actual e 'importar archivo'
+<img src="https://github.com/user-attachments/assets/e2f5bb3e-dce7-4cd9-834c-655ee6befc2e" loading="lazy"/>
+</li>
+<li>Selecciona el archivo descargado de este reporsitorio y  cierra la ventana de Visual Basic
+</li>
+</ol>
+
 
 ## Ejecutar
+Para ejecutar macros ir a la pestaña programador y macros.  <br>
 Para dibujar los puntos de avance ejecuta el macro **DibujarPuntos**.
 Los parámetros de los puntos (en forma de circulos) están en la primera macro (InicializarVariables).
 
